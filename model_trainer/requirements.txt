@@ -1,0 +1,8 @@
+xgboost==2.0.3
+mlflow==2.13.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+psycopg2-binary==2.9.9
+joblib==1.4.0
+h3==3.7.7
